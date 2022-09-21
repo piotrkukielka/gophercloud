@@ -130,7 +130,8 @@ var createReq = `
 		"volume": {
 			"size": 2,
 			"type": "ssd"
-		}
+		},
+		"availability_zone": "nova"
 	}
 }
 `
